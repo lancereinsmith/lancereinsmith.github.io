@@ -1,4 +1,4 @@
 baseURL = 'https://lancereinsmith.github.io/'
 languageCode = 'en-us'
 title = 'Lance Reinsmith'
-theme = 'ananke'
+theme = 'hugo-theme-shell'
